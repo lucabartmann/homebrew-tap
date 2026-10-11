@@ -1,6 +1,6 @@
 cask "mousetune" do
-  version "1.1.0"
-  sha256 "7045e44f9b4180f772352810f23af4d6153aa2fe807409ef465a9cea28adf921"
+  version "1.2.0"
+  sha256 "eb6a33b34eb31d257f8cbd31272194a2168bc11afb6463ad7f7c32c549e39215"
 
   url "https://github.com/lucabartmann/MouseTune/releases/download/v#{version}/MouseTune-#{version}.zip"
   name "MouseTune"
